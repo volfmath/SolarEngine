@@ -1,2 +1,2 @@
 # SolarEngine
-A cross render engine
+A cross-platform render engine
