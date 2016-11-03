@@ -5,7 +5,7 @@ CMAKE_MINIMUM_REQUIRED( VERSION 2.8 )
 option(SOLAR_BUILD_WITH_UNICODE "Build with unicode(wide-byte) or ansi(multi-byte)." TRUE)
 
 SET_PROPERTY(GLOBAL PROPERTY USE_FOLDERS ON)
-set( SALVIA_HOME_DIR ${CMAKE_HOME_DIRECTORY} )
+set( SOLAR_HOME_DIR ${CMAKE_HOME_DIRECTORY} )
 
 # Configuring
 #include (${CMAKE_HOME_DIRECTORY}/cmake/SystemInfo.cmake)
